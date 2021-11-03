@@ -1,0 +1,5 @@
+pyttsx3==2.90
+RPi.GPIO==0.7.0
+sn3218==1.2.7
+smbus2==0.4.1
+spidev==3.5
