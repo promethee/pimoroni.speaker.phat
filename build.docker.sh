@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t $(basename "$PWD") .
+docker build -t $USER/$(basename "$PWD"):latest .
